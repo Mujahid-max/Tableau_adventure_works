@@ -1,6 +1,6 @@
 # Adventure Works Dashboard 📊
 
-
+![Dashboard preview](https://github.com/Mujahid-max/Tableau_adventure_works/blob/main/Screenshot%202025-01-22%20173920.png?raw=true)
 
 
 ### Overview 🏢
