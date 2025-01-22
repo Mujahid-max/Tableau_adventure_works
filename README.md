@@ -10,7 +10,7 @@ The Adventure Works Dashboard visualizes critical metrics for Adventure Works Cy
 This dashboard was created using Tableau, utilizing a combination of seven datasets to provide insights into sales, profit, production costs, and customer behavior. The interactive design enables users to explore data by product category, year, and country, offering a comprehensive view of business operations.
 
 
-![cycling_gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZvdDJvdnF5aHBkNTFmczV4aW03cXRiY2UxYTFmdnBrYjA4Zmd2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TfXr6aBCykBwf8ilSP/giphy.gif)
+![cycling_gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDZleGcxaWVndDdxeWF2M2g4NWN0MndxdnFuNHRrOTkzZHptZTR3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/StiYWWNxWcWA0/giphy.gif)
 
 
 
